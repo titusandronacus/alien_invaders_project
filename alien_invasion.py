@@ -8,7 +8,7 @@ from alien import Alien
 
 class AlienInvasion:
     """Overall class to manage game assets and behavior"""
-    # should cause an issue
+    # lets cause a merge conflict issue
 
     def __init__(self):
         """Initialize the game, and create game resources"""
